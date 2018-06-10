@@ -11,9 +11,9 @@
         public function __construct()
         {
             $this->host = "localhost";
-            $this->username = "v0d6g6w4_agpatel";
-            $this->password = "adi987123@gmail.com";
-            $this->database = "image_recognition";
+            $this->username = "username";
+            $this->password = "password";
+            $this->database = "database";
             $this->connectDB();
         }
 

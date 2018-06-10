@@ -4,6 +4,7 @@ Recnify - A Facial Image Recognition Application
 
 <h2>Kairos</h2>
 Create New Free Account on https://developer.kairos.com/signup<br>
+Refer Kairos Doc. on https://www.kairos.com/docs/api/
 <hr>
 
 <h2>PHPMailer</h2>

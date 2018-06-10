@@ -11,7 +11,7 @@ Refer Kairos Doc. on https://www.kairos.com/docs/api/
 Unzip PHPMailer-Master file
 in files located at:<br>
 &emsp;1=>&emsp;src/common/classes<br>
-&emsp;2=>example/common/classes
+&emsp;2=>&emsp;example/common/classes
 <hr>
 
 <h6>

@@ -12,6 +12,6 @@ Unzip PHPMailer-Master file in
 <hr>
 
 <h6>
-Use given : APP_ID & APP_KEY by Kairos :<br>
+Use given : APP_ID & APP_KEY by Kairos & PHPMailer Information in Register Class :<br>
 in files located at: &emsp;src/common/classes or example/common/classes
 </h6>

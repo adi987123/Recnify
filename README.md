@@ -12,4 +12,5 @@ Recnify - A Facial Image Recognition Application
 Refer Kairos Doc. on https://www.kairos.com/docs/api/<br>
 Refer WebcamJs Doc. on https://github.com/jhuckaby/webcamjs/<br>
 Refer TimerJs Doc. on https://github.com/albert-gonzalez/easytimer.js/<br>
+Refer CookieJs Doc. on https://github.com/js-cookie/js-cookie/<br>
 Check cdn's to be up-to-date with Features.

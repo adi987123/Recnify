@@ -6,4 +6,4 @@ Recnify - A Facial Image Recognition Application
 Create New Free Account on https://developer.kairos.com/signup<br>
 Use given : APP_ID & APP_KEY by Kairos :<br>
 in files located at:&emsp;&emsp;&emsp;src/common/classes<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;or&emsp;example/common/classes
+or&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;example/common/classes

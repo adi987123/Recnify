@@ -7,8 +7,8 @@ Create New Free Account on https://developer.kairos.com/signup<br>
 <hr>
 
 <h2>PHPMailer</h2>
-Unzip PHPMailer-Master file in
-<h5>src/common/</h5><h5>example/common/</h5>
+Unzip PHPMailer-Master file
+in files located at: &emsp;src/common/classes or example/common/classes
 <hr>
 
 <h6>

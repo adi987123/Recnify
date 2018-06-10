@@ -8,6 +8,5 @@ Refer Kairos Doc. on https://www.kairos.com/docs/api/
 unzip PHPMailer-Master file in /common/ directory.
 <h2></h2>
 Import Database from File in PHPMYADMIN.<br>
-Edit Database.php Class file for Database Connectivity in /common/classes/ directory.<br>
-Use given : APP_ID & APP_KEY by Kairos & PHPMailer Functionality in files located at:<br>
-&emsp;&emsp;/common/classes
+Edit '.php' Class Files in /common/classes/ directory.<br>
+for Database Connectivity , use APP_ID & APP_KEY by Kairos & PHPMailer Functionality.

@@ -220,7 +220,7 @@
                     echo '<div class="text-center">
                     <h1><i class="fas fa-stopwatch fa-3x"></i></h1>
                     <h3 class="text-uppercase text-danger"><strong>Session Inactive</strong></h3><hr>
-                    <a href="'.(isset($_SERVER['HTTPS']) ? "https://" : "http://") . $_SERVER['HTTP_HOST']."/mcq/logout.php".'"><h5><i class="fas fa-sign-out-alt"></i> Logout</h5></a>
+                    <a href="'.(isset($_SERVER['HTTPS']) ? "https://" : "http://") . $_SERVER['HTTP_HOST']."/example/logout.php".'"><h5><i class="fas fa-sign-out-alt"></i> Logout</h5></a>
                     </div>';
                 }
             }

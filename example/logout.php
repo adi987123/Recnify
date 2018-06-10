@@ -10,6 +10,6 @@ if( isset( $_SESSION["user_id"] ) )
 }
 else
 {
-    header("Location: ".(isset($_SERVER['HTTPS']) ? "https://" : "http://") . $_SERVER['HTTP_HOST']."/mcq/");
+    header("Location: ".(isset($_SERVER['HTTPS']) ? "https://" : "http://") . $_SERVER['HTTP_HOST']."/example/");
 }
 ?>

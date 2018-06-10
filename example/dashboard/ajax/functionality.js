@@ -33,11 +33,11 @@ function verifyData()
             }).done(function (response) {
                 if(!''.match( response.replace(/\s/g,'') ))
                 {
-                    window.location = location.protocol+"//"+document.domain+"/mcq/"+'dashboard/?error=' + response;
+                    window.location = location.protocol+"//"+document.domain+"/example/"+'dashboard/?error=' + response;
                 }
                 else
                 {
-                    window.location = location.protocol+"//"+document.domain+"/mcq/"+'dashboard/';
+                    window.location = location.protocol+"//"+document.domain+"/example/"+'dashboard/';
                 }
             })
             
@@ -170,7 +170,7 @@ function saveData(radioValue)
         url: 'includes/function.php',
         data: 'function=saveQuestion&radioValue=' + radioValue
     }).done(function(response){
-        window.location = location.protocol+"//"+document.domain+"/mcq/"+'dashboard/';
+        window.location = location.protocol+"//"+document.domain+"/example/"+'dashboard/';
     });
 }
 

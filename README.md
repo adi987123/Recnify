@@ -5,11 +5,9 @@ Recnify - A Facial Image Recognition Application
 Create New Free Account on https://developer.kairos.com/signup<br>
 Refer Kairos Doc. on https://www.kairos.com/docs/api/
 <h2>PHPMailer</h2>
-Unzip PHPMailer-Master file
-in files located at:<br>
-&emsp;&emsp;/common/classes
+unzip PHPMailer-Master file in /common/ directory.
 <h2></h2>
 Import Database from File in PHPMYADMIN.<br>
-Edit Database.php Class file for Database Connectivity in /common/classes/<br>
+Edit Database.php Class file for Database Connectivity in /common/classes/ directory.<br>
 Use given : APP_ID & APP_KEY by Kairos & PHPMailer Functionality in files located at:<br>
 &emsp;&emsp;/common/classes

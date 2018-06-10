@@ -10,6 +10,7 @@ in files located at:<br>
 &emsp;1=>&emsp;src/common/classes<br>
 &emsp;2=>&emsp;example/common/classes
 <h2></h2>
+Import Database from File in PHPMYADMIN.
 Use given : APP_ID & APP_KEY by Kairos & PHPMailer Functionality in files located at:<br>
 &emsp;1=>&emsp;src/common/classes<br>
 &emsp;2=>&emsp;example/common/classes

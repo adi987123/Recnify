@@ -90,11 +90,11 @@
             $mail->SMTPSecure = "tls";                 
             $mail->Host       = "smtp.gmail.com";
             $mail->Port       = 587;
-            $mail->Username   = "agpatel.xyz@gmail.com";
-            $mail->Password   = "adi987123@gmail.com";
-            $mail->SetFrom( 'agpatel.xyz@gmail.com' , 'AGPATEL.XYZ' );
+            $mail->Username   = "FROM_EMAIL_ID";
+            $mail->Password   = "FROM_EMAIL_PASSWORD";
+            $mail->SetFrom( 'FROM_EMAIL' , 'FROM_NAME' );
             $mail->Subject = "Account Registration";
-            $mail->Body = "Welcome ".strtoupper($user_name)." to AGPATEL.XYZ.".'<html><head></head><body>
+            $mail->Body = "Welcome ".strtoupper($user_name).'<html><head></head><body>
             User Account Registration Successful
             <br></body></html>';
             $mail->AddAddress( $user_email );

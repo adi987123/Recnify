@@ -9,7 +9,9 @@ Refer Kairos Doc. on https://www.kairos.com/docs/api/
 
 <h2>PHPMailer</h2>
 Unzip PHPMailer-Master file
-in files located at: &emsp;src/common/classes or example/common/classes
+in files located at:
+&emsp;1=>&emsp;src/common/classes
+&emsp;2=>example/common/classes
 <hr>
 
 <h6>

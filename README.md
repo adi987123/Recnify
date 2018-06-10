@@ -6,3 +6,8 @@ Recnify - A Facial Image Recognition Application
 Create New Free Account on https://developer.kairos.com/signup<br>
 Use given : APP_ID & APP_KEY by Kairos :<br>
 in files located at:<h5>src/common/classes</h5><h5>example/common/classes</h5>
+<hr>
+
+<h2>PHPMailer</h2>
+Unzip PHPMailer-Master file in
+<h5>src/common/</h5><h5>example/common/</h5>

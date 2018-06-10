@@ -13,5 +13,5 @@ Unzip PHPMailer-Master file in
 
 <h6>
 Use given : APP_ID & APP_KEY by Kairos :<br>
-in files located at:<h5>src/common/classes</h5><h5>example/common/classes</h5>
+in files located at: &emsp;src/common/classes or example/common/classes
 </h6>
